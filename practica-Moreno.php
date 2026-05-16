@@ -38,4 +38,7 @@ function funcionDeMantenimientoInterno() {
     // Lógica interna oculta al público
     
 }
+
+// Modificación requerida para demostrar el control de cambios en la Tarea 5 de DAW.
+
 ?>
